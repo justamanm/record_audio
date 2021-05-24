@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9db75637-cc76-4b5f-9ad7-9421e0cf955c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/enhance_speach/en_outfile.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enhance_speach/enhance_speach.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enhance_speach/input_file.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enhance_speach/nextpow2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enhance_speach/nextpow2/nextpow2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enhance_speach/nextpow2/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/get_micro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/get_microphone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/remove_noise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../inbox/algorithm/leetcode/2021_1_11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/1&amp;2.内置函数-常量/python内置方法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/1&amp;2.内置函数-常量/内置方法.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/1&amp;2.内置函数-常量/魔法方法.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/10.文件-目录操作/os.path-mod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/10.文件-目录操作/process_dir_file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/10.文件-目录操作/process_read_write.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/10.文件-目录操作/shutil_mod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/14.编码解码&amp;加密解密/built-in/HmacSHA256编码.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/14.编码解码&amp;加密解密/built-in/md5&amp;sha1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/14.编码解码&amp;加密解密/built-in/md5&amp;sha系列.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/14.编码解码&amp;加密解密/built-in/md5编码.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/14.编码解码&amp;加密解密/built-in/sha1&amp;sha256编码.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/14.编码解码&amp;加密解密/built-in/url编码解码.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/14.编码解码&amp;加密解密/python编码说明.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/14.编码解码&amp;加密解密/third-part/AES加密-解密-java版本.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/14.编码解码&amp;加密解密/third-part/AES加密-解密.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/14.编码解码&amp;加密解密/third-part/RSA加密-解密.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/14.编码解码&amp;加密解密/二进制字符串-转对应字符.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/15.操作系统/argparse_mod/argparse_mod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/15.操作系统/argparse_mod/parentparser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/15.操作系统/logging_mod/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/15.操作系统/logging_mod/config.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/15.操作系统/logging_mod/logg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/15.操作系统/logging_mod/logging.emmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/15.操作系统/logging_mod/single_log-normal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/15.操作系统/logging_mod/single_log-size.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/15.操作系统/logging_mod/根据大小-重命名&amp;新建.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/15.操作系统/os-six.emmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/15.操作系统/os_mod/os_mod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/15.操作系统/windows/pywin32模块安装.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/15.操作系统/系统命令/os_mod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/15.操作系统/系统命令/subprocess_mod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio-3.6.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio-3.7+.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio.emmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/asyncio_example/concurrency.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/asyncio_example/coroutine_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/asyncio_example/no_concurrency.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/asyncio_example/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/asyncio_source/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/asyncio_source/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/asyncio_source/base_events.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/asyncio_source/base_futures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/asyncio_source/base_subprocess.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/asyncio_source/base_tasks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/asyncio_source/constants.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/asyncio_source/coroutines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/asyncio_source/events.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/asyncio_source/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/asyncio_source/format_helpers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/asyncio_source/futures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/asyncio_source/locks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/asyncio_source/log.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/asyncio_source/proactor_events.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/asyncio_source/protocols.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/asyncio_source/queues.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/asyncio_source/runners.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/asyncio_source/selector_events.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/asyncio_source/sslproto.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/asyncio_source/staggered.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/asyncio_source/streams.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/asyncio_source/subprocess.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/asyncio_source/tasks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/asyncio_source/threads.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/asyncio_source/transports.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/asyncio_source/trsock.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/asyncio_source/unix_events.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/asyncio_source/windows_events.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/asyncio_source/windows_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/emulate_asyncio/cocurrency_coroutine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/emulate_asyncio/events.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/emulate_asyncio/future.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/emulate_asyncio/runner.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/emulate_asyncio/sequence_coroutine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/emulate_asyncio/task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/emulate_asyncio/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_mod/emulate_asyncio/yield-coroutine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/asyncio_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/gevent.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/协程.emmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/协程嵌套.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/asyncio/异步.emmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/concurrent.futures.emmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/concurrent_futures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/subprocess-mod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/threading&amp;multiprocessing/多线程-多进程.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/threading&amp;multiprocessing/多线程.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/threading&amp;multiprocessing/多进程.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/threading&amp;multiprocessing/线程&amp;进程.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/16.并发/threading&amp;multiprocessing/线程-进程-协程.emmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/18.网络 &amp; 进程内通信/IO多路复用.emmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/18.网络 &amp; 进程内通信/aiohttp_moudle/aiohttp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/18.网络 &amp; 进程内通信/aiohttp_moudle/learn_aiohttp/aiohttp_server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/18.网络 &amp; 进程内通信/aiohttp_moudle/learn_aiohttp/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/18.网络 &amp; 进程内通信/email_mod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/18.网络 &amp; 进程内通信/requests模块/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/18.网络 &amp; 进程内通信/requests模块/requests-图片二进制直接用PIL打开.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/18.网络 &amp; 进程内通信/requests模块/requests.emmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/18.网络 &amp; 进程内通信/requests模块/requests_soap协议.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/18.网络 &amp; 进程内通信/selectors_module.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/18.网络 &amp; 进程内通信/socket/chrome_tcp/background.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/18.网络 &amp; 进程内通信/socket/chrome_tcp/chrome_tcp/background.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/18.网络 &amp; 进程内通信/socket/chrome_tcp/chrome_tcp/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/18.网络 &amp; 进程内通信/socket/chrome_tcp/chrome_tcp/manifest_extension.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/18.网络 &amp; 进程内通信/socket/chrome_tcp/chrome_tcp/window.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/18.网络 &amp; 进程内通信/socket/chrome_tcp/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/18.网络 &amp; 进程内通信/socket/chrome_tcp/manifest_extension.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/18.网络 &amp; 进程内通信/socket/chrome_tcp/window.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/18.网络 &amp; 进程内通信/socket/tcp-udp.emmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/18.网络 &amp; 进程内通信/socket/tcp_client.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/18.网络 &amp; 进程内通信/socket/tcp_server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/18.网络 &amp; 进程内通信/websocket/websocket-client.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/18.网络 &amp; 进程内通信/websocket/websocket-server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/19&amp;20.网络数据-结构化数据处理/json-url编码.emmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/19&amp;20.网络数据-结构化数据处理/正则-xpath.emmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/26.开发工具/类&amp;type&amp;object.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/28.软件包管理&amp;部署/pic/upx-vcruntime异常.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/28.软件包管理&amp;部署/异常监控/sentry/deploy-onpremise" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/28.软件包管理&amp;部署/异常监控/sentry/note/sentry.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/28.软件包管理&amp;部署/异常监控/sentry/note/sentry_add_breadcrumb_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/28.软件包管理&amp;部署/异常监控/sentry/note/sentry服务搭建.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/28.软件包管理&amp;部署/异常监控/sentry/note/sentry服务镜像.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/28.软件包管理&amp;部署/异常监控/sentry/note/sentry架构.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/28.软件包管理&amp;部署/异常监控/sentry/note/snuba-diagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/28.软件包管理&amp;部署/异常监控/sentry/sentry_flask" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/28.软件包管理&amp;部署/打包/pyinstaller.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/28.软件包管理&amp;部署/模块安装&amp;虚拟环境/conda.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/28.软件包管理&amp;部署/模块安装&amp;虚拟环境/conda速查.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/28.软件包管理&amp;部署/模块安装&amp;虚拟环境/virtualenvwrapper.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/28.软件包管理&amp;部署/模块安装&amp;虚拟环境/模块安装方式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/29.运行时操作/sys_mod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/7.数据类型/type &amp; object.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/7.数据类型/时间模块/datetime-mod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/7.数据类型/时间模块/dateutil-mod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/7.数据类型/时间模块/time-mod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/7.数据类型/时间模块/time_sub_util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/9.函数的操作模块/偏函数-partial.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/python-self #in progress/standard library/Standard Library.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JupyterTrust" id="c2b68f84-abfe-42bb-9bf5-cef7cdd860de" />
+  <component name="ProjectId" id="1nC5yguMiUZzdebw1WDDUEwNbP1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python\code\library\extend\record_audio" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.record1">
+    <configuration name="get_micro" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="record_audio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_micro.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_microphone" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="record_audio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_microphone.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="record_audio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="record1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="record_audio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/record1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.record1" />
+        <item itemvalue="Python.get_micro" />
+        <item itemvalue="Python.get_microphone" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9db75637-cc76-4b5f-9ad7-9421e0cf955c" name="Default Changelist" comment="" />
+      <created>1610881488944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610881488944</updated>
+      <workItem from="1610881490910" duration="3277000" />
+      <workItem from="1610889888911" duration="799000" />
+      <workItem from="1610893639020" duration="3911000" />
+      <workItem from="1610900610197" duration="4437000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="184" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610888636451">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="361" y="184" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1610888636451" />
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1610899082721">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1610899082721" />
+    <state width="1323" height="216" key="GridCell.Tab.0.bottom" timestamp="1610906182275">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="216" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1610906182275" />
+    <state width="1323" height="216" key="GridCell.Tab.0.center" timestamp="1610906182275">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="216" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1610906182275" />
+    <state width="1323" height="216" key="GridCell.Tab.0.left" timestamp="1610906182274">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="216" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1610906182274" />
+    <state width="1323" height="216" key="GridCell.Tab.0.right" timestamp="1610906182275">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="216" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1610906182275" />
+    <state x="184" y="28" key="SettingsEditor" timestamp="1610881881609">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="28" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1610881881609" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>140</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/record_audio$record1.coverage" NAME="record1 Coverage Results" MODIFIED="1610906105009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/record_audio$get_microphone.coverage" NAME="get_microphone Coverage Results" MODIFIED="1610904871415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/record_audio$get_micro.coverage" NAME="get_micro Coverage Results" MODIFIED="1610906085002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
